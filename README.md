@@ -1,2 +1,1 @@
-# sql
-MySQL, PostgreSQL, MariaDB
+Các kiến thức liên quan đến Mysql, PostgreSQL, MariaDB
